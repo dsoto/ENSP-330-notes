@@ -1,2 +1,7 @@
 { "title": "Energy, Technology, and Society" }
-{ "plugins": ["mathjax"] }
+{
+    "plugins": [
+        "mathjax"
+    ],
+    "pluginsConfig": {}
+}
