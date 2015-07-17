@@ -1,4 +1,4 @@
 # Energy, Technology, and Society
 
-* [Chapter 1](chapter1.md)
+* [Motivation](motivation.md)
 * [Chapter 2](chapter2.md)
