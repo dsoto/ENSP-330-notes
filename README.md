@@ -4,4 +4,6 @@ of the semester as a supplemental reading.
 
 $$ \sum_i x_i $$
 
+$$\sum_i x_i$$
+
 {% math %}\sum_i x_i{% endmath %}
