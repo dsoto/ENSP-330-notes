@@ -1,3 +1,2 @@
-{
-    plugins: ["mathjax"]
-}
+{ "title": "Energy, Technology, and Society" }
+{ "plugins": ["mathjax"] }
