@@ -3,3 +3,5 @@ class at Sonoma State University.  It will be developed over the course
 of the semester as a supplemental reading.
 
 $$ \sum_i x_i $$
+
+{% math %}\sum_i x_i{% endmath %}
