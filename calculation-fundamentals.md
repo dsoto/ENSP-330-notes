@@ -24,9 +24,9 @@ that will be turned in at the end
 ## A very large number
 - Avogadro's Number
 - $6.02 \times 10^{23}$ (1/mole)
-- $10^{1}$ = 10
+- $$10^{1}$$ = 10
 - $10^{2} = 10 \times 10$
-- $10^{3} = 10 \times 10 \times 10$
+- $$10^{3} = 10 \times 10 \times 10$$
 
 ## A very small number
 - Gravitational Constant
