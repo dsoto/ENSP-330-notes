@@ -2,7 +2,6 @@
 
 Basic physics and mathematics of energy
 
-![thermo](heat_engine_vector.png)
 
 
 <!-- look at toolkits for examples
@@ -86,9 +85,58 @@ http://cshsyear10maths.global2.vic.edu.au/files/2008/08/standard-form-table.png
 - How many persons in the US?
 
 
-## Performing computations
+# Performing computations
 
 While we want to develop our intuition when we are estimating with large
 numbers, performing accurate calculations is also important.  You will
 be able to calculate these numbers on a hand-held calculator, in Excel,
 and using scientific computing platforms like Python or Julia.
+
+Since our calculations are often used as evidence to support an
+argument, they must be easy to read and have clear methods and
+assumptions.  Using a computer to preserve the details of the
+calculation is often preferable to using a calculator.
+
+## Basic computations
+
+- Addition (+)
+- Subtraction (-)
+- Multiplication (*)
+- Division (/)
+- Exponentiation (^ or **)
+
+To perform basic calculations with numbers, we can type numbers into the
+computer and use the symbols above to perform the calculation.
+
+## Variables
+
+To make the details of a computation more clear, we can use readable
+names for our numbers and then use the names in the calculation.
+
+    power = 100
+    time = 30
+    energy = power * time
+
+This makes the intention of the calculation more clear to the reader.
+
+## Scientific Notation
+
+$$6 \cdot 10^3$$ is entered as ``6E3``.
+
+## Units
+
+Computation of physical quantities often relies on the human to define
+and use a consistent set of units of measurement.  There are tools that
+allow us to add physical quantities to our calculations, but they are
+not as rich as I could like them to be.  One good practice is to
+explicitly include the unit name in the variable name.
+
+    power_watt = 100
+    time_sec = 30
+    energy_joule = power_watt * time_sec
+
+<!-- excel has custom formats for units? -->
+
+## Defining Functions
+
+![thermo](heat_engine_vector.png)
