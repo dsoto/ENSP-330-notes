@@ -14,7 +14,9 @@ supporting claims is quantitative and the skills you develop in
 estimations will help you evaluate the quality of the evidence used to
 support claims about new energy policies or technologies.
 
-
+# Readings
+- Mackay-01
+- HK-01 Introduction
 
 ## Motivation
 - Our energy system has delivered enormous benefits.

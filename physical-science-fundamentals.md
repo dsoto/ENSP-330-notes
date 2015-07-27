@@ -11,6 +11,10 @@ chemistry for us to understand.
 - chemistry of photosynthesis
 - chemistry of combustion
 
+# Readings
+- HK-02 Energy Mechanics
+- HK-03 Conservation of Energy
+- HK-04 Heat and Work
 
 
 ## Scale of energy quantities

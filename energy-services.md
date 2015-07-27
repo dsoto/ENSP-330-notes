@@ -11,3 +11,10 @@ discuss the benefits we get from our energy sources.
 - Transportation
 - Lighting
 - Communication
+
+# Readings
+
+- Mackay-07 Heating and Cooling
+- HK-12 Electricity from Solar, Wind, and Hydro
+- Mackay-03 Cars
+- NC-02 Reinventing the Wheels

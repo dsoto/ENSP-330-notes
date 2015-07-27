@@ -8,4 +8,6 @@ to understand some social science.
 - hazard risk uncertainty
 - externalities
 
-
+# Readings
+- Robbins
+- NC-14 Human Capitalism?
