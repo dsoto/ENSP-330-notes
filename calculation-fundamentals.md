@@ -1,7 +1,14 @@
-# Chapter 2
+# Calculation Fundamentals
 
-Basic physics and mathematics of energy
+In order to make quantitative estimates of our energy needs and impacts,
+we must extend our mathematics with new tools and techniques.
 
+- scientific notation
+- units and physical quantities
+- computational tools for documenting calculations
+
+
+<!-- get stuff from 202 -->
 
 
 <!-- look at toolkits for examples
