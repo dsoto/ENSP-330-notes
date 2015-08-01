@@ -18,11 +18,18 @@ that will be turned in at the end
 
 ## Learning Objectives
 - You will learn to use quantitative tools to express energy
-
+- Use spreadsheet tools to create calculations
+- Use scripting languages to create calculations
+- Use scientific notation to represent large and small quantities
+- Use units to represent physical quantities in calculations
 
 ## Guiding Questions
+- How do we create reliable, convincing estimations?
 - How do we express very large and very small numbers?
 - How can we make estimates with very little information?
+
+## Readings
+
 
 ## Scientific Notation
 - Allows us to compactly write very large or very small numbers

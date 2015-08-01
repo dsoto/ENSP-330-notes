@@ -14,9 +14,27 @@ supporting claims is quantitative and the skills you develop in
 estimations will help you evaluate the quality of the evidence used to
 support claims about new energy policies or technologies.
 
+
+
+## Guiding questions
+- How can we construct an energy system that meets the needs of human
+  health and climate?
+- How do we determine if a proposed energy solution is likely to be
+  beneficial?
+
+
+## Learning objectives
+- Development of critical thinking skills applied to global energy issues
+- Develop model thinking and quantitative estimation skills for energy use
+- Understanding of the multiple technical, social, and policy issues
+  surrounding energy implementations
+
+
 # Readings
 - Mackay-01
 - HK-01 Introduction
+- Oakley, A Mind for Numbers
+- Newport, How to Become a Straight-A Student
 
 ## Motivation
 - Our energy system has delivered enormous benefits.
@@ -27,19 +45,6 @@ support claims about new energy policies or technologies.
 - The combination of knowledge and skills you gain in this class will
   create a foundation for a lifetime of informed discussion and
   influence in the space of energy.
-
-## Guiding questions
-- How can we make a transition to an energy system that meets the needs
-  of human health and climate
-- How do we determine if a proposed energy solution is likely to be
-  beneficial
-
-## Learning objectives
-- Development of critical thinking skills applied to global energy issues
-- Develop model thinking and quantitative estimation skills for energy use
-- Understanding of the multiple technical, social, and policy issues
-  surrounding energy implementations
-
 
 ## Transfer of knowledge
 - Certain energy facts will not change
