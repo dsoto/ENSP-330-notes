@@ -1,122 +1,21 @@
-# Chapter 1
+# Lecture 02
 
-Introduction
+## ENSP 330, Lecture 2, History of Energy
 
-In this course, you will develop two skills.  One you will learn to pose
-questions about energy as mathematical estimations.  These estimations
-will help us understand if new technologies or policies can have a
-positive impact on our energy system.  The second important skill is
-that you will learn to use critical thinking skills in a quantitative
-energy context.  When presented with an argument, you will be able to
-determine if the argument has clear claims that are supported with
-evidence.  These two skills are complementary.  Often, the evidence
-supporting claims is quantitative and the skills you develop in
-estimations will help you evaluate the quality of the evidence used to
-support claims about new energy policies or technologies.
+**Professor Daniel Soto, Sonoma State University**
 
-
-
-## Guiding questions
-- How can we construct an energy system that meets the needs of human
-  health and climate?
-- How do we determine if a proposed energy solution is likely to be
-  beneficial?
-
-
-## Learning objectives
-- Development of critical thinking skills applied to global energy issues
-- Develop model thinking and quantitative estimation skills for energy use
-- Understanding of the multiple technical, social, and policy issues
-  surrounding energy implementations
-
-
-# Readings
-- Mackay-01
-- HK-01 Introduction
-- Oakley, A Mind for Numbers
-- Newport, How to Become a Straight-A Student
-
-## Motivation
-- Our energy system has delivered enormous benefits.
-- However, it is destabilizing our climate
-- It has not reached everyone
-
-## Vision
-- The combination of knowledge and skills you gain in this class will
-  create a foundation for a lifetime of informed discussion and
-  influence in the space of energy.
-
-## Transfer of knowledge
-- Certain energy facts will not change
-    - Physics of energy, thermodynamics, economics
-- Others will definitely change
-    - Cheapest energy source, state of the art in technology, financing
-      options
-
-## Critical thinking skills
-- How do you gain information about a topic?
-- How do evaluate the quality of that information?
-- How do you assess the quality of an argument?
-
-
-## Research skills
-- How do you discover more about a topic?
-- How do you synthesize this information to answer a question?
-- How do you find the right question to ask?
-
-## Interview
-- What do you want to get out of this class?
-- How do you hope to use what you learn here in your career?
-- What are you most curious about in the field of energy?
-- What are you most concerned about in the field of energy?
+**27 Aug 2015**
 
 
 ## Learning Objectives
-- You will be able to define energy
-- You will relate energy concepts to common human activities
-- You will accurately identify energy conversions
-- You will connect technology advances with energy concepts
 
-## Guiding Questions
-- How do we define and measure energy?
-- How do we harness energy to improve our lives?
-- How has energy guided human society?
+- Understand energy as an organizing principle in human history
 
 
-## What is energy?
-- Energy is defined as the capacity to do work
-- Energy can be thought of as an accounting device
-- Energy is never destroyed or lost, only converted
+## Energy in Antiquity
 
-## Basic Concepts
-- Force
-- Work
-- Energy
-- Power
+- For much of human history, we used renewable sources of energy
 
-<!-- - run through each concept -->
-<!-- - apple weighs about 100g -->
-<!-- - difference between work and energy is subtle -->
-<!-- - can you come up with an example from each of these this morning? -->
-
-## Forms of Energy
-- Gravitational
-- Chemical
-- Kinetic
-- Radiation
-
-## Energy conversion
-- Conversion of energy is the key to making it useful
-
-<!-- - example: chemical energy to mechanical energy -->
-<!-- - write down an energy conversion from your life this morning -->
-
-## Activity
-- Brainstorm list of transformative energy technologies on paper with a
-  partner
-- Turn the list in at the end of class for credit.
-
-# Energy in Antiquity
 
 ## Biological Energy Conversion
 - Plants convert radiant energy into chemical energy
@@ -130,6 +29,7 @@ support claims about new energy policies or technologies.
 - Hunting
 - Agriculture
 - Livestock
+- Which of these is our current energy system most like?
 
 <!--
 - how can you see each of these in terms of energy?
@@ -153,24 +53,16 @@ support claims about new energy policies or technologies.
 - Oil
 - Gas
 
-<!--
-- what sources do humans burn for use
--->
 
 ## Amplifying human power and energy
 - Ancient machines
     - Lever
     - Spring
 
-<!--
-- lever converts small force over large distance to large force over
-  small distance
-- springs store energy as mechanical potential energy
--->
 
 ## Hunting Machines
 - Bow and arrow
-    - energy is stored in bow and release quickly
+    - energy is stored in bow and released quickly
 - Spear and Lever
     - Lever allows hunter to impart more kinetic energy to the spear
       than with the arm alone
@@ -185,16 +77,12 @@ support claims about new energy policies or technologies.
 - Our superior ability to remove heat energy from our bodies allows us
   to outrun prey animals
 
-# Beyond Human Power
 
 ## Livestock
 - Oxen
 - Horses
 - Allowed humans to cultivate more land, but required more land for food
 
-<!--
-- Horsepower
--->
 
 ## Water power
 - Water wheels
@@ -223,17 +111,21 @@ support claims about new energy policies or technologies.
   windmill
 -->
 
-## Windmills
+## Ancient Windmill
 ![Estonian Windmill](../figures/estonian-windmill.jpg)
 
-## Windmills
+## American Pumping Windmill
 ![South Dakota Wind Pump](../figures/south-dakota-windpump.jpg)
 
-## Windmills
+## Modern Electric Windmill
 ![Oregon Wind Farm](../figures/shepherds-flat-wind-farm.jpg)
 
 
-# Energy in the Fossil Fuel Era
+## Energy in the Fossil Fuel Era
+
+- The modern era is marked by the enormous productivity gains provided
+    by fossil fuel energy
+- We can purchase the equivalent of one person's labor for a day for about 10 cents
 
 ## Steam Engine
 - Invented by James Watt in approximately 1770
@@ -244,30 +136,27 @@ support claims about new energy policies or technologies.
 - Inventions in the 1800s lead to first automobile patent by Karl Benz
   in 1886
 
-<!--
-- on paper write down positive and negative aspects of modern
-  transportation
-- then share with partner and then with class
-- what are positive effects of transportation
-    - goods, services
-- what are negative effects?
-    - pollution
-    - deaths and injury
--->
 
 ## Electrification
-- Coal is used as the fuel for electricity generation
 
-<!--
-- on paper, write down positive and negative aspects of electricity
-- share with partner and then group
-- positive effects of electricity?
-- negative effects?
--->
+- Pearl Street Station
+- Steam-powered, coal-fired electricity generator
+- Fossil fuel is still widely used for electricity generation
+
+
+## Discussion
+
+- Choose on of these technologies and discuss
+    - Positive effects
+    - Negative effects
+
+
+
+
 
 # Consequences of Fossil Fuel Use
 
-## Global Warming
+# Global Warming
 - Widespread use of these fuels causes an increase in fossil carbon in
   the atmosphere
 - Arhennius in 1896 calculated how changes in the levels of CO~2~ could
@@ -279,7 +168,7 @@ support claims about new energy policies or technologies.
 - what is still under debate
 -->
 
-## Nuclear Energy
+# Nuclear Energy
 - Mass converted to thermal energy
 - 1950s see the first nuclear power plants
 
@@ -288,20 +177,20 @@ support claims about new energy policies or technologies.
 - heat is used to boil water and power a turbine
 -->
 
-## Solar Energy
+# Solar Energy
 "I'd put my money on solar energy...I hope we don't have to wait till oil
 and coal run out before we tackle that." Thomas Edison
 
-## Solar Energy
+# Solar Energy
 - Photoelectric effect discovered in 1916 by Millikan
 - 1950s solar photovoltaic cells used on satellites
 - Today, widespread use in private and commercial generation
 
-## Solar Adoption
+# Solar Adoption
 - 40 years to get to 50 GW of PV capacity
 - 50 GW again in the last 2.5 years
 
-## Future Energy Technologies?
+# Future Energy Technologies?
 - What technical and financial innovations will allow for more low
   carbon energy solutions?
 
@@ -316,5 +205,4 @@ and coal run out before we tackle that." Thomas Edison
 <!--
 - next time, energy physics, math, estimations
 -->
-
 
