@@ -91,7 +91,7 @@
     - estimated 500,000 waterwheels in Europe
 
 ## Water Wheel
-![Syria Water Wheel](../figures/syrian-water-wheel.jpg)
+![Syria Water Wheel](./figures/syrian-water-wheel.jpg)
 
 
 ## Wind power
@@ -112,13 +112,13 @@
 -->
 
 ## Ancient Windmill
-![Estonian Windmill](../figures/estonian-windmill.jpg)
+![Estonian Windmill](./figures/estonian-windmill.jpg)
 
 ## American Pumping Windmill
-![South Dakota Wind Pump](../figures/south-dakota-windpump.jpg)
+![South Dakota Wind Pump](./figures/south-dakota-windpump.jpg)
 
 ## Modern Electric Windmill
-![Oregon Wind Farm](../figures/shepherds-flat-wind-farm.jpg)
+![Oregon Wind Farm](./figures/shepherds-flat-wind-farm.jpg)
 
 
 ## Energy in the Fossil Fuel Era
