@@ -61,7 +61,7 @@ http://cshsyear10maths.global2.vic.edu.au/files/2008/08/standard-form-table.png
 - Division
 
 ## Scale of energy quantities
-![](../figures/ipcc_energy_primer.png)
+![](./figures/ipcc_energy_primer.png)
 - from IPCC Energy Primer
 
 ## Energy Units
@@ -111,6 +111,12 @@ argument, they must be easy to read and have clear methods and
 assumptions.  Using a computer to preserve the details of the
 calculation is often preferable to using a calculator.
 
+## Existing Knowledge
+
+- Where have you learned how to use a calculator?
+- Have you learned how to use a spreadsheet?
+
+
 ## Basic computations
 
 - Addition (+)
@@ -151,6 +157,62 @@ explicitly include the unit name in the variable name.
 
 <!-- excel has custom formats for units? -->
 
-## Defining Functions
 
-![thermo](heat_engine_vector.png)
+## Functions
+
+A custom function can be created and used.  The syntax for this often
+varies but the idea is usually the same.
+
+    m = 1
+    b = 10
+    f(x) = m * x + b
+    f(5) => 15
+
+
+## Scientific Notation
+
+$$6 \cdot 10^3$$ is entered as ``6E3``.
+
+## Units
+
+Computation of physical quantities often relies on the human to define
+and use a consistent set of units of measurement.  There are tools that
+allow us to add physical quantities to our calculations, but they are
+not as rich as I could like them to be.  One good practice is to
+explicitly include the unit name in the variable name.
+
+    power_watt = 100
+    time_sec = 30
+    energy_joule = power_watt * time_sec
+
+<!-- excel has custom formats for units? -->
+
+## Units
+
+Some programs can treat quantities with units.  Calca allows you to do
+this.
+
+    distance = 100 meter
+    time = 12 second
+    distance / time => 8.3333 meter/second
+
+## Linear Growth
+
+- Linear functions have the same absolute increase for equal time
+
+
+## Exponential Growth and Decay
+
+- Exponential functions have same relative increase for equal time
+- What number do we multiply by itself N times to get another number?
+
+
+## Activity
+
+If a population on 1 million people is growing at 5% each year, how
+large will the population be in
+
+- 1 year?
+- 2 years?
+- 10 years?
+
