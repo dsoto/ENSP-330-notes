@@ -7,6 +7,8 @@ to understand some social science.
 - supply and demand
 - hazard risk uncertainty
 - externalities
+- subsidy
+- hidden subsidy
 
 # Questions
 - What patterns in human behavior can be predicted that influence our
