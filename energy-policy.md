@@ -14,19 +14,19 @@ the rules for energy usage.
 You will use your quantitative skills to assess the impact of these
 different policy instruments.
 
-# Questions
+## Questions
 
 - How can we use norms and institutions to improve our energy system?
 - How do we decide what a good outcome looks like?
 
 
-# Learning Objectives
+## Learning Objectives
 
 - Recognize important federal laws on energy
 - Estimate impacts of proposed policy changes on emissions or pollution
 
 
-# Readings
+## Readings
 
 - Pacala and Socolow
 - Lovins Soft Paths
@@ -41,7 +41,7 @@ different policy instruments.
 
 
 
-# Macro energy picture
+# Concepts
 
 ## Definitions
 - Gross Domestic Product (GDP)
@@ -85,6 +85,10 @@ different policy instruments.
 
 ## GDP and Energy Efficiency
 ![](../figures/L2_von_meier/Slide21.jpg)
+
+
+
+# US
 
 ## US primary energy use
 ![EIA](../figures/us_primary_energy_intensity.png)
@@ -134,6 +138,8 @@ different policy instruments.
 - This paper is ten years old now, are there any new wedges we could
   add?
 
+# California
+
 ## California
 - Global Warming Solutions Act of 2006 (AB 32)
     - Reduce GHG emissions to 1990 levels by 2020
@@ -147,6 +153,8 @@ different policy instruments.
 
 ## How do we achieve this goals?
 - What can we do on a county or state level?
+
+# Sonoma County
 
 ## Sonoma County
 - Sonoma County Energy Independence Program (SCEIP)
