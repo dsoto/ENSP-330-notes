@@ -11,40 +11,14 @@ chemistry for us to understand.
 - chemistry of photosynthesis
 - chemistry of combustion
 
-## plans
-- announcements (15 min)
-- homework peer grading (25 minutes)
-    - random groups of three
-- reading discussion (15 min)
-- lecture (40 min)
 
-# Lecture 05
 
-## ENSP 330, Lecture 05, Energy Physics Fundamentals
-
-**Professor Daniel Soto, Sonoma State University**
-
-**01 Sept 2015**
-
-## Homework Sign In
-- If you have your homework ready, check your name on the list
 
 ## Learning Objectives
 - Able to estimate energy quantities
 - Able to move from a question to a mathematical estimation
 - Able to use energy formulas accurately
 
-## Announcements
-- Sept 8th Today Add/Drop deadline
-- Sept 9th Peter Singer poverty lecture Weill Hall 6:30 50 walk up tickets
-- Sept 10th Noon I'm speaking in ENSP 201
-- Sept 10th Schulz Info Center 15th Birthday 4pm-6pm
-- Sept 13th NBEAA Drive Electric Day at Coddington North
-- Sept 15th Grad apps for Fall semester
-- Oct 21st Sustainability Day at the Student Center
-    - David Orr keynote
-- Oct 30th ENSP application due
-- Students for Sustainability
 
 ## Basic Energy Concepts
 - Energy
@@ -97,6 +71,8 @@ chemistry for us to understand.
 ## Energy conversion
 - Conversion of energy is the key to making it useful
 
+# Energy and Power
+
 ## Energy Units
 - Joule
     - SI Unit.  One Newton-Meter.
@@ -114,6 +90,7 @@ chemistry for us to understand.
 ## Scale of energy quantities
 ![](./figures/ipcc_energy_primer.png)
 - from IPCC Energy Primer
+
 
 ## What is energy?
 - Energy is defined as the capacity to do work
@@ -186,6 +163,8 @@ $$\eta_{total} = \eta_1 \cdot \eta_2 \cdot \eta_3 \cdots$$
 
 
 
+# Unit conversions
+
 ## Conversions
 - Factor-label method
 - Unit-factor method
@@ -218,17 +197,8 @@ What is the average power that each US person consumes?
   energy usage per year
 - 100 Exajoules / population / (3.14 * 10^7 seconds)
 
-# Lecture 06
 
-## plans
-- quiz (25 min)
-- homework time (15 min)
-- lecture and discussion on thermo (50 min)
-- reading discussion ?
-- energy, power, conversion, efficiency continued
-
-## Reading Due
-- Hinrichs and Kleinbach Chapter 4 Heat and Work
+# Thermodynamics
 
 ## Thermodynamics and heat engines
 
