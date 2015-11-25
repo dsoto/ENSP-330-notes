@@ -1,16 +1,11 @@
-# Lecture 02
-
-## ENSP 330, Lecture 2, History of Energy
-
-**Professor Daniel Soto, Sonoma State University**
-
-**27 Aug 2015**
-
+# An Energy History
 
 ## Learning Objectives
 
 - Understand energy as an organizing principle in human history
 
+
+# Energy in Antiquity
 
 ## Energy in Antiquity
 
@@ -121,6 +116,8 @@
 ![Oregon Wind Farm](./figures/shepherds-flat-wind-farm.jpg)
 
 
+# Industrial Revolution
+
 ## Energy in the Fossil Fuel Era
 
 - The modern era is marked by the enormous productivity gains provided
@@ -156,7 +153,7 @@
 
 # Consequences of Fossil Fuel Use
 
-# Global Warming
+## Global Warming
 - Widespread use of these fuels causes an increase in fossil carbon in
   the atmosphere
 - Arhennius in 1896 calculated how changes in the levels of CO~2~ could
@@ -168,7 +165,7 @@
 - what is still under debate
 -->
 
-# Nuclear Energy
+## Nuclear Energy
 - Mass converted to thermal energy
 - 1950s see the first nuclear power plants
 
@@ -177,20 +174,20 @@
 - heat is used to boil water and power a turbine
 -->
 
-# Solar Energy
+## Solar Energy
 "I'd put my money on solar energy...I hope we don't have to wait till oil
 and coal run out before we tackle that." Thomas Edison
 
-# Solar Energy
+## Solar Energy
 - Photoelectric effect discovered in 1916 by Millikan
 - 1950s solar photovoltaic cells used on satellites
 - Today, widespread use in private and commercial generation
 
-# Solar Adoption
+## Solar Adoption
 - 40 years to get to 50 GW of PV capacity
 - 50 GW again in the last 2.5 years
 
-# Future Energy Technologies?
+## Future Energy Technologies?
 - What technical and financial innovations will allow for more low
   carbon energy solutions?
 
