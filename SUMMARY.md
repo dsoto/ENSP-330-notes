@@ -8,3 +8,4 @@
 * [Energy Services](energy-services.md)
 * [Intersections](intersections.md)
 * [Energy Policy](energy-policy.md)
+* [Exercises](exercises.md)
