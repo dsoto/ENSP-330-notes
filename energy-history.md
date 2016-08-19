@@ -1,5 +1,12 @@
 # An Energy History
 
+At least two pivotal moments in human history can be viewed as advances in our use of energy.
+Agriculture was the organized conversion of solar energy to chemical food energy in a way that reduced the calories humans had to expend to harvest that food.
+With reduced energy going into food production, societies could advance in new ways.
+The industrial revolution was based on the conversion of coal, ancient fossilized plants, to mechanical energy.
+The energy output of a human being could be replaced by pile of black rocks.
+Machines could produce goods that required human energy and an explosion of both human wealth and threats to health began.
+
 ## Learning Objectives
 
 - Understand energy as an organizing principle in human history
