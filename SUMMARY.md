@@ -1,5 +1,6 @@
 # Energy, Technology, and Society
 
+* [Motivation](motivation.md)
 * [Energy History](energy-history.md)
 * [Calculation Fundamentals](calculation-fundamentals.md)
 * [Physical Science Fundamentals](physical-science-fundamentals.md)
@@ -8,4 +9,9 @@
 * [Energy Services](energy-services.md)
 * [Intersections](intersections.md)
 * [Energy Policy](energy-policy.md)
-* [Exercises](exercises.md)
+* [Course Materials](course-materials.md)
+    * [Exercises](exercises.md)
+    * [Quizzes](quizzes.md)
+    * [Homework](homework.md)
+    * [Reading Assignments](readings.md)
+    * [Project](project.md)
