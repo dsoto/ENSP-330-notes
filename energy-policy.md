@@ -69,7 +69,7 @@ different policy instruments.
 - Population 300 million
 - Energy use 100 Quads
 
-##
+## Figure
 ![](../figures/L2_von_meier/Slide15.jpg)
 
 ## Per capita electricity consumption
@@ -124,6 +124,9 @@ different policy instruments.
 ##
 ![](../figures/L2_von_meier/Slide20.jpg)
 
+
+## Solar Learning Curve
+![](../figures/solar-learning-curve.png)
 
 ## Pacala and Socolow
 - Authors demonstrate solving climate problem with existing technologies
@@ -193,6 +196,8 @@ different policy instruments.
 - [CSU Sustainability Policy](http://www.calstate.edu/cpdc/sustainability/policies-reports/documents/JointMeeting-CPBG-ED.pdf)
 - [2014 CSU Sustainability Report](http://www.calstate.edu/cpdc/sustainability/policies-reports/documents/CSUSustainabilityReport2014.pdf)
 - [STARS Report Campuses](http://www.calstate.edu/cpdc/sustainability/climate-change/)
+
+# Global Negotiations
 
 ## Rio Earth Summit, 1992
 - Negotiated the United Nations Framework Convention on Climate Change
