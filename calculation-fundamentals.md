@@ -1,5 +1,9 @@
 # Calculation Fundamentals
 
+Note: this is a condensed version of the material in ENSP-202.
+You can find the full notes of that class
+[here](https://dsoto.gitbooks.io/ensp-202-notes/content/).
+
 In order to make quantitative estimates of our energy needs and impacts,
 we must extend our mathematics with new tools and techniques.
 
