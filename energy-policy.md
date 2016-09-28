@@ -24,67 +24,49 @@ different policy instruments.
 
 - Recognize important federal laws on energy
 - Estimate impacts of proposed policy changes on emissions or pollution
-
-
-## Readings
-
-- Pacala and Socolow
-- Lovins Soft Paths
-- NAACP Coal Blooded
-- HK-19 A National and Personal Commitment
-
-## Learning Objectives
 - You will understand the links between large economies and energy use
 
-## Review
-
-
-
-
-# Concepts
 
 ## Definitions
 - Gross Domestic Product (GDP)
+    - Monetary value of all goods and services created by an economy.
 - Per capita GDP (GDP per person)
+    - The GDP of an economy divided by the number of persons in that economy.
 - Per capita energy use (Joules per person)
-- Energy intensity (Joules per GDP)
+- Energy intensity of GDP (Joules per GDP)
 
 ## Definitions
 - Primary energy
+    - Energy as it occurs naturally
 - Secondary energy
+    - An energy source that has been converted to a more convenient form
 
 ## Energy and GDP
 [Energy vs GDP by country](http://www.withouthotair.com/c30/figure242.png)
-![](../figures/energy_gdp_hot_air.png)
+![](./figures/energy_gdp_hot_air.png)
 
 <!-- ## Energy Intensity -->
 <!-- ![](../figures/L2_von_meier/Slide13.jpg) -->
 
 ## Energy per capita
-![](../figures/L2_von_meier/Slide14.jpg)
+![](./figures/Energy-consumption-per-capita-2003.png)
 
 ## US GDP
 - 2006
-- GDP 14 trillion USD 14 x 10^12^
+- GDP 14 trillion USD $$14 \cdot 10^12$$
 - Population 300 million
 - Energy use 100 Quads
 
-## Figure
-![](../figures/L2_von_meier/Slide15.jpg)
-
-## Per capita electricity consumption
-![](../figures/L2_von_meier/Slide18.jpg)
 
 ## California Electricity Consumption
-![](../figures/california_consumption.png)
+![](./figures/california_consumption.png)
 
 <!-- what is the MPG of an economy? -->
 
 ## Energy per unit of GDP
-![Source: The Economist](../figures/economist-energy-intensity.jpg)
+![Source: The Economist](./figures/economist-energy-intensity.jpg)
 
-## GDP and Energy Efficiency
-![](../figures/L2_von_meier/Slide21.jpg)
+<!-- ![](../figures/L2_von_meier/Slide21.jpg) -->
 
 
 
@@ -94,7 +76,7 @@ different policy instruments.
 ![EIA](../figures/us_primary_energy_intensity.png)
 
 ## Annual residential energy per capita
-![EIA](../figures/eia_us_annual_residential_per_capita.png)
+![EIA](./figures/eia_us_annual_residential_per_capita.png)
 
 ## US electricity consumption
 ![](../figures/US_electricity_consumption.pdf)
@@ -118,11 +100,9 @@ different policy instruments.
 ## US oil consumption
 ![](../figures/us_oil_consumption.pdf)
 
-##
-![](../figures/L2_von_meier/Slide19.jpg)
+<!-- ![](../figures/L2_von_meier/Slide19.jpg) -->
 
-##
-![](../figures/L2_von_meier/Slide20.jpg)
+<!-- ![](../figures/L2_von_meier/Slide20.jpg) -->
 
 
 ## Solar Learning Curve
@@ -184,10 +164,10 @@ different policy instruments.
 - [2008 Action Plan](http://www.coolplan.org/ccap-report/CCAP_Final_11-05-08.pdf)
 
 ## Sonoma County Climate Plan
-![Climate Protection Campaign](../figures/sonoma-emissions-1.pdf)
+![Climate Protection Campaign](./figures/sonoma-emissions-1.pdf)
 
 ## Sonoma County Climate Plan
-![Climate Protection Campaign](../figures/sonoma-emissions-2.pdf)
+![Climate Protection Campaign](./figures/sonoma-emissions-2.pdf)
 
 ## Sonoma State
 - What policies could you imagine here at Sonoma State
