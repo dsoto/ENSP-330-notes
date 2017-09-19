@@ -21,8 +21,74 @@ discuss the benefits we get from our energy sources.
 - Apply fundamental energy principles to explain how energy services are
   delivered
 
-# Readings
-- Mackay-07 Heating and Cooling
-- HK-12 Electricity from Solar, Wind, and Hydro
-- Mackay-03 Cars
-- NC-02 Reinventing the Wheels
+# Energy Efficiency
+
+## Efficiency
+- Whenever we convert energy, we are not able to convert all of it
+- A measure of how well a resource is converted
+- Defined as useful energy out divided by total energy in
+
+<!--
+MathJax has a bug and this won't render
+$$\eta = \frac{E_{out}}{E_{in}}$$
+-->
+
+
+$$\eta = \frac{E_o}{E_i}$$
+
+
+<!-- need reinforcement exercises here -->
+
+## Example Efficiencies
+- Electrical generators (70--99%)
+- Electric motors (50--90%)
+- Gas furnace (70--95%)
+- Wind turbine (35--50%)
+- Fossil fuel power plant (30--40%)
+- Nuclear power plant (30--35%)
+- Automobile engine (20--30%)
+- Solar cell (5--28%)
+- Fuel cell (40--60%)
+
+## Multiplication of efficiencies
+- When we want to know the efficiency of a process with many steps, we
+  multiply the efficiencies at each step to get the total.
+
+$$\eta_{total} = \eta_1 \cdot \eta_2 \cdot \eta_3 \cdots$$
+
+
+# Energy Efficacy
+
+Efficiencies are usually expressing energy to energy conversions and are dimensionless.
+Sometimes, we want to express a quantity like the miles traveled per gallon of fuel or the amount of light provided per unit of electrical power.
+These are called efficacies.
+
+Usually they are a fraction with the quantity of service provided on the top and the amount of energy, power, or fuel input on the bottom.
+
+# Energy Density (Volumetric)
+
+This is the quantity of energy that fits in a given volume.
+
+# Energy Density (Gravimetric)
+
+This is the quantity of energy that fits in a given mass.
+
+## Gravimetric Energy Density for selected fuels
+
+$$ \textrm{Fuel Density} =
+   \frac
+   {\textrm{Chemical energy contained in material}}
+   {\textrm{Mass of material}}
+$$
+
+## Fuel Density
+
+| Material| Energy Density (MJ/kg) |
+|--------|-----|
+| Gasoline  | 45     |
+| Crude oil | 42--44  |
+| Natural gas | 33--37 |
+| Coal | 12--31 |
+| Wood | 14--16 |
+| Lithium Battery | 0.5 |
+
