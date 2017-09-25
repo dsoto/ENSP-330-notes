@@ -5,6 +5,7 @@
 * [Calculation Fundamentals](calculation-fundamentals.md)
 * [Physical Science Fundamentals](physical-science-fundamentals.md)
     * [Thermodynamics](thermo.md)
+    * [Circuit Models](circuit-models.md)
 * [Social Science Fundamentals](social-science-fundamentals.md)
 * [Energy Services](energy-services.md)
 * [Intersections](intersections.md)
