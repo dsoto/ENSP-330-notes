@@ -80,7 +80,7 @@ different policy instruments.
 
 ## US electricity consumption
 
-![](../figures/US_electricity_consumption.pdf)
+![](../figures/US_electricity_consumption.png)
 
 <!-- - let's do rough conversion to per capita -->
 
@@ -100,7 +100,7 @@ different policy instruments.
 - For the decrease recently?
 
 ## US primary energy consumption
-![](../figures/us_primary_energy_consumption.pdf)
+![](../figures/us_primary_energy_consumption.png)
 
 ## US oil consumption
 ![](../figures/us_oil_consumption.png)
