@@ -1,6 +1,6 @@
 {
     "gitbook": ">=2.0.0",
     "title": "Energy, Technology, and Society",
-    "plugins": [ "mathjax" ],
+    "plugins": [ "katex" ],
     "pluginsConfig": {}
 }
