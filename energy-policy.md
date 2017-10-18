@@ -79,7 +79,9 @@ different policy instruments.
 ![EIA](./figures/eia_us_annual_residential_per_capita.png)
 
 ## US electricity consumption
+
 ![](../figures/US_electricity_consumption.pdf)
+
 <!-- - let's do rough conversion to per capita -->
 
 ## Consumption growth
