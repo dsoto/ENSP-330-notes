@@ -88,10 +88,13 @@ different policy instruments.
 ![](../figures/consumption_growth.png)
 
 ## State energy consumption per capita
+
 ![](../figures/eia_state_consumption_per_capita.pdf)
+
 <!-- - Why does California have high consumption but low consumption per capita? -->
 
 ## US carbon emissions
+
 - ![](../figures/US_carbon_emissions.pdf)
 - What are possible reasons for the increase over time?
 - For the decrease recently?
