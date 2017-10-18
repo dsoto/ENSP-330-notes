@@ -89,13 +89,13 @@ different policy instruments.
 
 ## State energy consumption per capita
 
-![](../figures/eia_state_consumption_per_capita.pdf)
+![](../figures/eia_state_consumption_per_capita.png)
 
 <!-- - Why does California have high consumption but low consumption per capita? -->
 
 ## US carbon emissions
 
-- ![](../figures/US_carbon_emissions.pdf)
+- ![](../figures/US_carbon_emissions.png)
 - What are possible reasons for the increase over time?
 - For the decrease recently?
 
@@ -103,7 +103,7 @@ different policy instruments.
 ![](../figures/us_primary_energy_consumption.pdf)
 
 ## US oil consumption
-![](../figures/us_oil_consumption.pdf)
+![](../figures/us_oil_consumption.png)
 
 <!-- ![](../figures/L2_von_meier/Slide19.jpg) -->
 
@@ -169,10 +169,10 @@ different policy instruments.
 - [2008 Action Plan](http://www.coolplan.org/ccap-report/CCAP_Final_11-05-08.pdf)
 
 ## Sonoma County Climate Plan
-![Climate Protection Campaign](./figures/sonoma-emissions-1.pdf)
+![Climate Protection Campaign](./figures/sonoma-emissions-1.png)
 
 ## Sonoma County Climate Plan
-![Climate Protection Campaign](./figures/sonoma-emissions-2.pdf)
+![Climate Protection Campaign](./figures/sonoma-emissions-2.png)
 
 ## Sonoma State
 - What policies could you imagine here at Sonoma State
