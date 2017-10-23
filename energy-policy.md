@@ -85,6 +85,10 @@ different policy instruments.
 <!-- - let's do rough conversion to per capita -->
 
 ## Consumption growth
+
+Overall consumption can grow even if the energy per person is shrinking.
+If the population is growing, the overall consumption of energy can increase.
+
 ![](../figures/consumption_growth.png)
 
 ## State energy consumption per capita
