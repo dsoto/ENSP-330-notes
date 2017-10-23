@@ -10,6 +10,7 @@
 * [Energy Services](energy-services.md)
 * [Intersections](intersections.md)
 * [Energy Policy](energy-policy.md)
+* [Metrics](metrics.md)
 * [Course Materials](course-materials.md)
     * [Exercises](exercises.md)
     * [Quizzes](quizzes.md)
