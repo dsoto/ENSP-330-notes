@@ -235,6 +235,27 @@ If the population is growing, the overall consumption of energy can increase.
 - Why not?
 
 
+# Direct and Indirect Subsidies
+
+Subsidies are financial benefits to consumers of a product.
+In the case of energy they can be costs that didn't have to be paid or a direct payment from the government.
+
+## Fossil Fuels
+
+- Intangible Drilling Costs Deduction.  We provide tax deductions for oil exploration costs.
+- Social cost of carbon.  These are costs we estimate are borne by the public but are not paid for by fossil fuel companies or consumers.
+
+## Solar
+
+- Federal tax credit for solar panel installation
+- Renewable electricity production credit
+
+## Finance
+
+Some financing or bonds are provided by the government for investment.
+The lower cost of capital means a lower repayment cost and is a subsidy for the energy project that receives it.
+
+
 # Examples
 
 We want to reduce GHG emissions about 85% by 2050.  Sonoma county has a
