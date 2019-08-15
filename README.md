@@ -1,4 +1,3 @@
-This is a set of notes for the ENSP 330 Energy Technology and Society
-class at Sonoma State University.  It will be developed over the course
-of the semester as a supplemental reading.
+This is a set of notes for the GEP 373 Energy Technology and Society class at Sonoma State University.
 
+These notes will be used in the Fall 2019 version of the course.
