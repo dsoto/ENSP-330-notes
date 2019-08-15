@@ -1,6 +1,7 @@
 # Energy, Technology, and Society
 
 * [History and Context](energy-history.md)
+* [Energy Models](energy-models.md)
 * [Motivation](motivation.md)
 * [Calculation Fundamentals](calculation-fundamentals.md)
 * [Physical Science Fundamentals](physical-science-fundamentals.md)
