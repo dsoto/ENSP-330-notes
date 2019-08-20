@@ -1,8 +1,10 @@
 # Energy, Technology, and Society
 
+* [Energy History](energy-history-intro.md)
+    * [Context and Motivation](context-and-motivation.md)
+    * [History](energy-history.md)
 * [History and Context](energy-history.md)
 * [Energy Models](energy-models.md)
-* [Motivation](motivation.md)
 * [Calculation Fundamentals](calculation-fundamentals.md)
 * [Physical Science Fundamentals](physical-science-fundamentals.md)
     * [Thermodynamics](thermo.md)
