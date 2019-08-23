@@ -16,6 +16,7 @@
 * [Energy Policy](energy-policy.md)
 * [Metrics](metrics.md)
 * [Course Materials](course-materials.md)
+    * [Old Notes](330-lecture-completed.md)
     * [Exercises](exercises.md)
     * [Quizzes](quizzes.md)
     * [Homework](homework.md)
