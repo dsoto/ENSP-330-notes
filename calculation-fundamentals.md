@@ -34,6 +34,21 @@ that will be turned in at the end
 
 ## Readings
 
+# Factor-Label Method
+
+We will use a method that may be familiar to you from chemistry classes.
+
+# Calculators
+
+It is worth your time to download a scientific calculator for your phone.
+A scientific calculator will provide useful features like
+
+- A history of your previous computations
+- The ability to see your entire mathematical expression before execution.
+
+Having these available makes it much easier to avoid and fix computational errors.
+
+Many students have all the concepts and skills for calculations and then become very frustrated when they make errors on their calculators.
 
 # Scientific Notation
 
