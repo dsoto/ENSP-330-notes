@@ -20,8 +20,16 @@ If you are traveling at an average speed of 60 miles an hour for 3 hours, how fa
 # Energy quantities
 
 There are several types of energy quantities that come up frequently.
+How do you decide which of these quantities is relevant to your estimation and decision?
 
+Here is a list of types of quantities and their uses
+
+- Unit Conversions
+    - convert a quantity from one unit to another, keeping the dimension the same
 - Efficiency
-- Efficacy
+    - determine how much of one type of energy can be converted to another
 - Energy Density
+    - calculates the volume or mass required to generate an amount of energy
 - Carbon Intensity
+    - calculates the carbon released from a given amount of energy
+
