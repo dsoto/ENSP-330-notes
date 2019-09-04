@@ -33,3 +33,45 @@ Here is a list of types of quantities and their uses
 - Carbon Intensity
     - calculates the carbon released from a given amount of energy
 
+
+# Standard Multiplier Prefixes
+
+Often for energy quantities, we use the metric prefixes to express scientific notation.
+
+![](../figures/SI-prefix-table.png)
+
+# Power and Energy
+
+Power is the rate of conversion of energy.
+
+This means that energy is the product of a power and a time.
+
+$$ E = P \cdot t $$
+
+Usually, we make the estimation that the power is constant over the time period.
+
+
+# Energy Density (Volumetric)
+
+This is the quantity of energy that fits in a given volume.
+
+# Energy Density (Gravimetric)
+
+This is the quantity of energy that fits in a given mass.
+
+# Gravimetric Energy Density for selected fuels
+
+$$ \textrm{Fuel Density} = \frac {\textrm{Chemical energy contained in material}} {\textrm{Mass of material}} $$
+
+## Fuel Density
+
+| Material| Energy Density (MJ/kg) |
+|--------|-----|
+| Gasoline  | 45     |
+| Crude oil | 42--44  |
+| Natural gas | 33--37 |
+| Coal | 12--31 |
+| Wood | 14--16 |
+| Lithium Battery | 0.5 |
+
+

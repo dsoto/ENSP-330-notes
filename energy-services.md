@@ -65,30 +65,3 @@ These are called efficacies.
 
 Usually they are a fraction with the quantity of service provided on the top and the amount of energy, power, or fuel input on the bottom.
 
-# Energy Density (Volumetric)
-
-This is the quantity of energy that fits in a given volume.
-
-# Energy Density (Gravimetric)
-
-This is the quantity of energy that fits in a given mass.
-
-## Gravimetric Energy Density for selected fuels
-
-$$ \textrm{Fuel Density} =
-   \frac
-   {\textrm{Chemical energy contained in material}}
-   {\textrm{Mass of material}}
-$$
-
-## Fuel Density
-
-| Material| Energy Density (MJ/kg) |
-|--------|-----|
-| Gasoline  | 45     |
-| Crude oil | 42--44  |
-| Natural gas | 33--37 |
-| Coal | 12--31 |
-| Wood | 14--16 |
-| Lithium Battery | 0.5 |
-
