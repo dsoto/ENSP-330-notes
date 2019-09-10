@@ -1,3 +1,13 @@
+
+# Calculators
+
+# Spreadsheets and Scripts
+
+# Transparency of Intention
+
+# Reproducibility
+
+
 # Calculation Fundamentals
 
 Note: this is a condensed version of the material in ENSP-202.
