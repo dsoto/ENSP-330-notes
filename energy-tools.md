@@ -28,12 +28,28 @@ $$ E = P \cdot t $$
 
 $$ E = 50\ \textrm{watt} \cdot 100\ \textrm{sec} = 5000\ \textrm{joules} $$
 
+# Unit Conversions
+
+Usually when we create an estimation, the dimensions are fixed but we have a choice of what units we use.
+
+It may be simplest to perform the calculation using units that are correct, but not the best for communicating with an audience.
+
+If this is the case we can use a unit conversion to go from the correct but awkward unit to a better unit for communication.
+
+## Example
+
+Suppose someone says it is 640,000 inches to drive from SSU to Petaluma.
+This is correct, but you might not find it helpful.
+If we know that there are 5,280 feet in a mile and 12 inches in a foot, we can provide a more familiar unit.
+
+$$ 640,000\ \textrm{inches} \cdot \frac{1\ \textrm{foot}}{12\ \textrm{inches}} \cdot \frac{1\ \textrm{mile}}{5280\ \textrm{feet}} = 10.1\ \textrm{miles}$$
 
 # Density
 
 A density converts a mass to a volume or a volume to a mass.
 
 |Material|Density(g/cubic centimeter)|
+|--------|---------------------------|
 |Crude Oil | ~0.9 |
 |Water | 1.0 |
 | Air  | 0.0012 |
@@ -87,6 +103,8 @@ If we needed to make an estimate of gasoline usage to support a decision about t
 # Standard Multiplier Prefixes
 
 Often for energy quantities, we use the metric prefixes to express scientific notation.
+
+Rather than say $3.2 \cdot 10^{9}$ Joules, will say 3.2 GJ, using the G for giga or billion.
 
 ![](../figures/SI-prefix-table.png)
 
