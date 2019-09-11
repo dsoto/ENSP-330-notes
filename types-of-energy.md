@@ -27,9 +27,9 @@ $$ E = mc\Delta T $$
 
 This is the energy to raise the temperature of a substance.
 
-- $m$ is the mass of the material
-- $c$ is the specific heat capacity of the material
-- $\Delta T$ is the rise in the temperature of the material
+- $$m$$ is the mass of the material
+- $$c$$ is the specific heat capacity of the material
+- $$\Delta T$$ is the rise in the temperature of the material
 
 # Chemical Energy
 
