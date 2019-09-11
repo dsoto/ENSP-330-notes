@@ -44,6 +44,12 @@ If we know that there are 5,280 feet in a mile and 12 inches in a foot, we can p
 
 $$ 640,000\ \textrm{inches} \cdot \frac{1\ \textrm{foot}}{12\ \textrm{inches}} \cdot \frac{1\ \textrm{mile}}{5280\ \textrm{feet}} = 10.1\ \textrm{miles}$$
 
+## Units and Dimensions
+
+Note that a unit conversion has different units on the top and bottom and the same dimensions on top and bottom.
+
+This means multiplying a quantity by a unit conversion changes the units but doesn't change the dimension.
+
 # Density
 
 A density converts a mass to a volume or a volume to a mass.
@@ -65,6 +71,7 @@ $$ 2000\ \textrm{cubic centimeter gasoline} \cdot \frac{0.740\ \textrm{gram gaso
 
 # Gravimetric Energy Density
 
+This is the quantity of energy is released by the conversion (often combustion) of a given mass of the material.
 Here is a table of the gravimetric (mass) energy densities for a few popular energy storage sources.
 
 | Material| Energy Density (MJ/kg) |
@@ -76,6 +83,16 @@ Here is a table of the gravimetric (mass) energy densities for a few popular ene
 | Wood | 14--16 |
 | Lithium Battery | 0.5 |
 
+## Units and Dimensions
+
+An energy density has different dimensions and different units on the top and bottom.
+The dimensions of a mass energy density are energy over mass.
+
+This means multiplying by an energy density changes the dimension of a quantity unlike a unit conversion.
+
+# Energy Density (Volumetric)
+
+This is the quantity of energy that is released by a given volume of the material.
 
 # Carbon Intensity
 
@@ -87,9 +104,8 @@ These are averages for the carbon intensity of electricity for some power plants
 | Natural Gas | 1135 lb CO2/MWh  |
 | Proposed EPA Limit | ~ 1100 lb CO2/MWh |
 
-# Scientific Notation
 
-# Unit Analysis
+
 
 # Gasoline Usage in the United States
 
@@ -100,7 +116,7 @@ If we needed to make an estimate of gasoline usage to support a decision about t
 # Carbon Intensity of Electricity
 
 
-# Standard Multiplier Prefixes
+# Standard Multiplier Prefixes and Scientific Notation
 
 Often for energy quantities, we use the metric prefixes to express scientific notation.
 
@@ -117,14 +133,4 @@ $$ \frac{1\ \textrm{GJ}}{1\ \textrm{GJ}}= \frac{1000\ \textrm{MJ}}{1\ \textrm{GJ
 The fraction on the right can be used the same way a unit conversion fraction can.
 
 $$ 10\ \textrm{GJ} \cdot \frac{1000\ \textrm{MJ}}{1\ \textrm{GJ}} = 10,000\ \textrm{MJ} $$
-
-# Energy Density (Volumetric)
-
-This is the quantity of energy that fits in a given volume.
-
-# Energy Density (Gravimetric)
-
-This is the quantity of energy that fits in a given mass.
-
-## Fuel Energy Density
 
