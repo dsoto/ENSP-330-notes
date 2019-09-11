@@ -4,9 +4,9 @@ This is the energy added to an object to raise it to a given height on the earth
 
 $$ E = mgh $$
 
-- $m$ is the mass of the object
-- $g$ is the acceleration due to gravity
-- $h$ is the height of the object
+- $$m$$ is the mass of the object
+- $$g$$ is the acceleration due to gravity
+- $$h$$ is the height of the object
 
 If we measure the mass in kilograms, the acceleration in meters per second squared, and the height in meters, our energy will be in units of joules.
 
@@ -16,8 +16,8 @@ This is the energy added to a moving object like a baseball or an automobile for
 
 $$ E = \frac{1}{2}mv^{2} $$
 
-- $m$ is the mass of the object
-- $v$ is the velocity of the object
+- $$m$$ is the mass of the object
+- $$v$$ is the velocity of the object
 
 If we measure the mass in kilograms and the velocity in meters per second, the energy will be in joules.
 
