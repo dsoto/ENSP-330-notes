@@ -50,6 +50,16 @@ Note that a unit conversion has different units on the top and bottom and the sa
 
 This means multiplying a quantity by a unit conversion changes the units but doesn't change the dimension.
 
+## Common Unit Conversions
+
+1609 meters = 1 mile (length)
+
+1055 Joules = 1 BTU (energy)
+
+$$3.6 \times 10^6$$ Joules = 1 kWh
+
+
+
 # Density
 
 A density converts a mass to a volume or a volume to a mass.
