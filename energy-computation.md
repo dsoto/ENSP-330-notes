@@ -1,11 +1,20 @@
-# Calculators
+The estimates and computations we perform have two goals
 
-# Spreadsheets and Scripts
+- To give us the best possibility of a correct estimation
+- To communicate our estimation to others in the clearest way possible
 
 # Transparency of Intention
 
+An important thing to communicate to our audience is why we chose the particular calculation method we chose.
+This is our intention.
+
+Contrast this with providing the details of the computation.
+It is possible to provide all the details of the computation while leaving the reader in the dark about why we chose that strategy.
+
 # Reproducibility
 
+By making the details of our computation and our strategy clear, we allow others to reproduce and verify our work.
+Experts regularly make mistakes in their estimates and computations, but by using very transparent methods, they and others can correct their errors quickly.
 
 # Calculation Fundamentals
 
