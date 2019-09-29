@@ -1,3 +1,82 @@
+# Example Calculation
+
+## Activity
+How much electricity can be generated from one kilogram of coal in a
+typical coal-fired electricity plant?
+
+## Strategy
+- Find energy in Joules
+- Convert energy from Joules to kWh
+- Correct for efficiency
+
+- make a list of assumptions and units
+- draw on board to support exercise
+- anthracite coal 30 MJ/kg
+- 3.6 MJ/kWh
+- how much electricity if 100% efficient?
+- how much if 30% efficient?
+- Using one kg of coal
+    - How much energy (in J) is the coal?
+    - How much electricity in kWh can we generate assuming 35% efficiency?
+- How much carbon in the coal
+- Do calculation on spreadsheet?
+
+$$
+\textrm{energy density}
+\times
+\textrm{efficiency}
+\times
+\textrm{conversion factor}
+=
+\textrm{electricity per kg coal}
+$$
+
+$$
+\frac{30\ \textrm{MJ coal}}
+{\textrm{kg coal}}
+\times
+\frac{0.35\ \textrm{J elec}}
+{1\ \textrm{J coal}}
+\times
+\frac{1\ \textrm{kWh elec}}
+{3.6\ \textrm{MJ elec}}
+=
+\frac{2.9\ \textrm{kWh elec}}
+{\textrm{kg coal}}
+$$
+
+other questions
+
+- Carbon dioxide emitted from 1kg of coal
+- Additional mortality based on pollution from 1 kg of coal
+
+## Formula for increased mortality from coal pollution
+![Estimating the Health Impacts of Coal-Fired Power Plants Receiving International Financing, Environmental Defense Fund](./figures/coal-health-impacts-edf.png)
+
+<!--  -->
+<!-- # Consequences of Fossil Fuel Use -->
+<!--  -->
+<!-- ## Global Warming -->
+<!-- &#45; Widespread use of these fuels causes an increase in fossil carbon in -->
+<!--   the atmosphere -->
+<!-- &#45; Arhennius in 1896 calculated how changes in the levels of CO~2~ could -->
+<!--   alter surface temperature -->
+<!--  -->
+<!-- ## Hockey Stick Chart -->
+<!-- [MBH 1998 temperature patterns](http://www.meteo.psu.edu/holocene/public_html/shared/articles/mbh98.pdf) -->
+<!-- ![](../figures/mbh1998.pdf) -->
+<!--  -->
+<!-- ## CO~2~ Record -->
+<!-- [National Oceanic and Atmospheric Administration Earth System Research -->
+<!-- Laboratory](http://www.esrl.noaa.gov/gmd/ccgg/trends/) -->
+<!-- ![](../figures/co2_data_mlo.pdf) -->
+<!--  -->
+<!-- ## Human Influence -->
+<!-- [IPCC summary](http://www.grida.no/publications/other/ipcc_tar/?src=/climate/ipcc_tar/wg1/006.htm) -->
+<!-- ![](../figures/ipcc_human_influence.pdf) -->
+
+
+
 ## ENSP 330, Lecture 1, Introduction and Overview
 ### Professor Daniel Soto, Sonoma State University
 ### 19 Aug 2014
@@ -273,32 +352,6 @@
 - negative effects?
 -->
 
-# Consequences of Fossil Fuel Use
-
-## Global Warming
-- Widespread use of these fuels causes an increase in fossil carbon in
-  the atmosphere
-- Arhennius in 1896 calculated how changes in the levels of CO~2~ could
-  alter surface temperature
-
-## Hockey Stick Chart
-[MBH 1998 temperature patterns](http://www.meteo.psu.edu/holocene/public_html/shared/articles/mbh98.pdf)
-![](../figures/mbh1998.pdf)
-
-## CO~2~ Record
-[National Oceanic and Atmospheric Administration Earth System Research
-Laboratory](http://www.esrl.noaa.gov/gmd/ccgg/trends/)
-![](../figures/co2_data_mlo.pdf)
-
-## Human Influence
-[IPCC summary](http://www.grida.no/publications/other/ipcc_tar/?src=/climate/ipcc_tar/wg1/006.htm)
-![](../figures/ipcc_human_influence.pdf)
-
-<!--
-- what is beyond dispute
-- what is still under debate
--->
-
 ## Nuclear Energy
 - Mass converted to thermal energy
 - 1950s see the first nuclear power plants
@@ -515,205 +568,6 @@ Pyramid](http://online.morainevalley.edu/websupported/bio112/biomasspyramid.jpg)
 - Refrigeration and storage
 
 
-## Fossil fuels
-- Fossil fuels are the product of millions of years of photosynthesis
-  stored and processed under heat and pressure
-- Most fuel is found in rocks from about 50-450 million years ago
-
-## ENSP 330, Lecture  7, Fossil Fuels
-### Professor Daniel Soto, Sonoma State University
-### Tuesday, 09 Sep 2014
-
-<!-- check number of dell computer -->
-
-## Announcements
-- Energy in the news?
-- ETC assistant
-
-## Learning Objectives
-- You will be able to describe consequences of fossil fuel use
-- You will be able to list the major uses of coal, petroleum, and
-  natural gas
-- You will be able to understand some of the connections between fossil
-  fuel use and human activities
-
-## Review
-- Energy basics
-- Estimation techniques
-- Laws of thermodynamics
-- Carbon, photosynthesis, and combustion
-
-
-<!--
-- where do we get them
-- how do we use them
-- why are they useful
-- how are they harmful
--->
-
-<!--
-- fossil fuel etymology latin fodere dig fossilis dug up
--->
-
-# Fossil Fuels
-
-## Types of Fossil Fuels
-- Coal
-- Petroleum
-- Natural Gas
-
-
-## Impacts of a Global Fossil Fuel Network
-- Fossil fuels are being extracted, processed, and used all over the
-  world
-- Who bears the burden of the consequences?
-- Who benefits from their use?
-- Where are these consequences located?
-
-
-## Origin of Fossil Fuels
-![](../figures/VM-fossil-crust.jpg)
-
-## Fossil Fuel Molecules
-![](../figures/VM-carbon-molecules.jpg)
-
-## Petroleum prices at record highs
-![](../figures/gas_prices.png)
-
-## Petroleum use
-![Source: EIA](../figures/petroleum_sankey.pdf)
-
-## Natural gas prices currently low
-![Source: EIA](../figures/EIA-natural-gas-prices.png)
-
-## Natural gas use
-![Source: EIA](../figures/natural_gas_flow.pdf)
-
-## Coal use
-![Source: EIA](../figures/coal_flow.pdf)
-
-## Primary energy use
-![Energy in Quads.  Source: EIA](../figures/primary_energy_consumption.pdf)
-
-## Pollution effects
-- Carbon dioxide climate
-- Particulates
-- Acid rain
-
-<!--
-- what is the spatial scale of these effects?
--->
-
-## Impacts of extraction methods
-- What are the benefits of extraction?
-- What are the costs of extraction?
-
-<!--
-- exxon valdez 1989 prince william sound, alaska
-- deepwater horizon explosion 2010
-- sago mine 2006 disaster
--->
-
-## Fossil Fuel Subsidies
-- exploration expensing
-- unpriced externalities
-
-
-## Politics
-- 2006 House passed bill to allow immediate offshore drilling
-- Arctic National Wildlife Refuge (ANWR)
-- Drilling on federal lands
-
-## Activity
-How much electricity can be generated from one kilogram of coal in a
-typical coal-fired electricity plant?
-
-## Strategy
-- Find energy in Joules
-- Convert energy from Joules to kWh
-- Correct for efficiency
-
-<!--
-make a list of assumptions and units
-draw on board to support exercise
-anthracite coal 30 MJ/kg
-3.6 MJ/kWh
-how much electricity if 100% efficient?
-how much if 30% efficient?
-- Using one kg of coal
-    - How much energy (in J) is the coal?
-    - How much electricity in kWh can we generate assuming 35% efficiency?
-- How much carbon in the coal
-- Do calculation on spreadsheet?
--->
-
-
-
-
-## ENSP 330, Lecture  8, Life Cycle Energy and Cost Analysis
-### Professor Daniel Soto, Sonoma State University
-### Thursday, 11 Sep 2014
-
-## Announcements
-- Syllabus deadlines
-
-## Learning Objectives
-- You will be able to use Life Cycle Analysis techniques to estimate the
-  environmental impacts of technologies and practices
-
-## Guiding Questions
-- What is the environmental impact of a system taking into consideration
-  its entire life?
-
-## Review
-- Energy fundamentals
-- Fossil fuel fundamentals
-
-## Coming next
-- Energy at a national and global scale
-- Considering alternatives
-
-<!-- check gil masters for examples -->
-
-## Yesterday's Calculation
-
-$$
-\textrm{energy density}
-\times
-\textrm{efficiency}
-\times
-\textrm{conversion factor}
-=
-\textrm{electricity per kg coal}
-$$
-
-$$
-\frac{30\ \textrm{MJ coal}}
-{\textrm{kg coal}}
-\times
-\frac{0.35\ \textrm{J elec}}
-{1\ \textrm{J coal}}
-\times
-\frac{1\ \textrm{kWh elec}}
-{3.6\ \textrm{MJ elec}}
-=
-\frac{2.9\ \textrm{kWh elec}}
-{\textrm{kg coal}}
-$$
-
-## Yesterday's calculation
-You could also calculate besides electricity
-
-- Carbon dioxide emitted from 1kg of coal
-- Additional mortality based on pollution from 1 kg of coal
-
-## Formula for increased mortality from coal pollution
-![Estimating the Health Impacts of Coal-Fired Power Plants Receiving International Financing, Environmental Defense Fund](../figures/coal-health-impacts-edf.png)
-
-<!-- a word to the mathematically disinclined,
-asking the question is the most important step
--->
-
 # Life Cycle Analysis
 
 ## Life Cycle Analysis
@@ -825,394 +679,6 @@ asking the question is the most important step
 - collect stats on the capacity growth and energy growth of nuclear
   power
 -->
-
-# Nuclear Energy
-
-## Nuclear energy
-- Nuclear energy used for electricity
-- Very similar to fossil fuel plants
-
-<!--
-link to other concepts
-- second law of thermodynamics
-- heat engine
-- inital cost, recurring cost, fuel cost
-- capacity factor
--->
-
-
-## Fusion vs Fission
-- Fusion joins atomic nuclei
-- Sun is a fusion reaction
-- Fission splits atomic nuclei
-- Nuclear energy is a fission reaction
-
-
-## Fission
-![](../figures/fission.jpg)
-
-## Electronic vs Nuclear Energy Levels
-- Mass Energy Equivalence
-- $E = mc^2$
-- The very high binding energy in the nucleus allows for small amounts
-  of fuel to release large amounts of energy
-- 3 million times more electricity per kg than coal
-
-## Nuclear Decay
-- Elements become other elements (the goal of alchemists)
-- Iron most stable
-
-## Nuclear Fuel
-
-## Uranium Metal
-![](../figures/uranium_metal.jpg)
-
-## Uranium Mine
-![](../figures/uranium_mine.jpg)
-
-## Uranium Ore
-![](../figures/uranium_ore.jpg)
-
-## Uranium Yellowcake
-![](../figures/yellowcake.jpg)
-
-## Nuclear Fuel Rods
-![](../figures/nuclear_fuel_rods.jpg)
-
-## Nuclear Reactor Core
-![](../figures/nuclear_reactor_core.jpg)
-
-## Nuclear Reactor Diagram
-![](../figures/nuclear_reactor_diagram.jpg)
-
-## Nuclear Waste Disposal
-
-## Half Life
-- Definition
-- Relation to carbon dating
-- Relevance to end of life
-- Plutonium 239 half life of 2400 years
-
-## Half Life
-![](../figures/halflife.jpg)
-
-
-## Water Fuel Storage
-![](../figures/spent_fuel_storage.jpg)
-
-## Above Ground Fuel Storage
-![](../figures/uranium_storage.jpg)
-
-## Electricity Death Rates
-
-$$ \textrm{Death Rate} = \frac
-   {\textrm{Number of Deaths}}
-   {\textrm{Electrical Energy Delivered}} $$
-
-## Electricity Death Rates
-
-| Source  | Deaths per TWh|
-|---------|---------------|
-| Coal    | 161           |
-| Solar   | 0.44          |
-| Nuclear | 0.04          |
-
-Source: nextbigfuture.com based on WHO data
-
-
-## Nuclear energy
-- Over 430 nuclear reactors
-- 370 GW of capacity
-- 70 reactors under construction
-- About 10% of world electricity production
-
-<!-- world electricity capacity EIA 5,331 Million KW -->
-<!-- 5 10^12 W = 5 TW -->
-<!-- global power demand 16 TW  -->
-
-<!-- good stuff in wikipedia world energy consumption -->
-
-## Nuclear Electricity Production
-![](../figures/nuclear-electricity-production.png)
-
-## Nuclear Installed Capacity
-![](../figures/nuclear-installed-capacity.jpg)
-
-## Capacity vs Delivered Electricity
-- US Nuclear Capacity
-- US Nuclear Energy Production
-
-## Lifetime cost of nuclear electricity
-- Cost is seen as a key weakness for nuclear electricity
-- Plant construction
-- Fixed operation and maintenance
-- Variable operation and maintenance
-- Decommissioning cost
-- Waste disposal
-
-
-## Lifetime cost of nuclear electricity
-- cost of construction 83.4 USD/MWh
-- fixed operation and maintenance 11.6 USD/MWh
-- variable operation and maintenance (fuel) 12.3 USD/MWh
-- total 108.4 USD/MWh
-- compare to coal (65.7, 4.1, 29.2, 100.1)
-- compare to natural gas (17.4, 2.0, 45.0, 67.1)
-
-## Discussion
-- Nuclear power risks and benefits
-
-## Patrick Moore Testimony
-- What is Moore arguing?
-- What parts of his argument do you find compelling?
-- What parts of his argument do you find lacking?
-- What are the reasons for his conclusion?
-
-<!--
-evidence
-unfair comparisons
-value conflicts
-- how would you investigate his reasons for yourself?
-- what would it take to scale up?
--->
-
-
-
-
-
-
-
-
-
-
-
-
-## ENSP 330, Lecture 11, Hydropower
-### Professor Daniel Soto, Sonoma State University
-### Tuesday, 23 Sep 2014
-
-## Announcements
-- Outlines due Thursday
-- Signup for outline feedback afterward
-- Homework 2 due Today
-- Midterm moved
-
-## Lecture Learning Objectives
-- You will understand physics and environmental basics of hydropower
-
-## Activity Objective
-- You will gain practice with energy conversions and estimations
-
-<!--
-physics: mgh
-find equations in H&K
-land use and population displacement
-china
-hydro contribution: world, US, california
-efficiency of a water wheel?  mid-80s for a good pelton?
--->
-
-# Hydropower
-
-## Energy basics
-- We use the simplest model for the water as a mass at a height or
-  elevation
-- A mass $m$ lifted to a high $h$ has a stored gravitational potential
-  energy of
-$$ PE = mgh $$
-- PE is in joules if mass is in kilograms, g = 9.8 m/s^2^ and the height
-  is in meters
-
-## Power
-- How do we convert this to a power?
-$$ energy = mgh $$
-$$ \frac{energy}{time} = \frac{mgh}{time}$$
-$$ power = \frac{m}{time} gh$$
-$$ power = flow \cdot gh$$
-- To get flow in mass per time we convert from volume per time
-
-## Ancient Power Technology
-- Waterwheels have been used for centuries
-- Modern hydropower technology has added large scale dams
-
-## Types
-- Run of river
-- Dams
-
-## Hydropower is significant world wide
-- http://wdi.worldbank.org/table/3.7
-- 2010 Hydropower 15.9% of world wide electricity
-- Coal 40.5%, Nuclear 12.8%
-- Largest power station in the world is hydroelectric
-
-
-## Three Gorges
-- Largest power plant in the world
-- Displaced millions of people
-- 22 GW power continuous
-- NYC - 10 GW
-
-## Three Gorges
-![](../figures/three_gorges.jpg)
-
-## Three Gorges
-[Three Gorges
-Satellite](https://maps.google.com/maps?ll=30.823056,111.003333&q=loc:30.823056,111.003333&hl=en&t=h&z=14)
-
-## Grand Coulee
-- Largest hydroelectric installation in US
-- 6.8 GW capacity
-- 21 Billion kWh annual energy delivered
-
-
-## Building a dam
-- What is the effect of a dam?
-- How does the dam affect the overall flow of water?
-
-## Climate change
-- Initial increase in methane emissions
-
-## Advantages
-- Once built, very cheap power
-- Reliable technology
-- Can be used as storage
-
-## Disadvantages
-- Environmental impacts
-- Seasonal variation
-- Water flow
-- Fish migration
-- Sedimentation
-- Increased seismic activity
-- Risk of dam failure
-
-## Hydropower
-![](../figures/hydropower_issues.jpg)
-
-## Hydropower
-![](../figures/dam_schematic.jpg)
-
-## Hydropower
-![](../figures/dam_schematic_2.jpg)
-
-## Hydropower
-![](../figures/hydropower_physics_1.jpg)
-
-## Hydropower similarities to fossil generation
-- Uses spinning generators just like combustion plant
-- Doesn't use heat, unlike combustion plant
-
-## Hydropower turbines
-![](../figures/dam_turbines.jpg)
-
-## Hydropower turbines
-![](../figures/water_turbines.jpg)
-
-## Hoover Dam
-![](../figures/hoover_dam_1.jpg)
-
-## Hoover Dam
-![](../figures/hoover_dam_2.jpg)
-
-## Scalability
-- Hydropower can be produced at small scale
-
-## Hydropower
-![](../figures/medium_dam.jpg)
-
-## Hydropower
-![](../figures/tiny_dam.jpg)
-
-# Microhydro
-
-## Small Scale Hydropower
-![](../figures/coca_hydropower_2.png)
-
-## Small Scale Hydropower
-![](../figures/coca_hydropower.jpg)
-
-<!--
-add pics from eric youngren
--->
-
-## Tidal Energy
-- Tides caused by the moon's gravity
-- Causes a daily flow of water
-
-## Tidal power
-![](../figures/tidal1.png)
-
-## Wave Energy
-- Waves are driven by the wind (which is driven by the sun)
-- Uses the rise and fall of wave crests to create energy
-
-## Wave Energy
-![](../figures/pelamis_1.jpg)
-
-## Wave Energy
-![](../figures/pelamis_2.jpg)
-
-## Wave Energy
-![](../figures/wave_energy_1.jpg)
-
-## Wave Energy
-![](../figures/wave_energy_2.jpg)
-
-
-## Activity Objective
-- You will gain practice with energy conversions and estimations
-
-## Gasoline and car height
-
-We want to compare the chemical energy in a gallon of gasoline to the
-potential energy of lifting a car?
-
-<!-- A gallon of gasoline contains approximately 120 MJ of chemical energy. -->
-
-## Units
-- What are the units of the energy = mgh formula if we use kilograms, g=10
-m/sec, and h in meters?
-
-
-## Gravitational energy
-If that energy were totally converted into the gravitational potential
-energy of the car, how high could you lift the car?  A Honda Civic has a
-weight of about 1100 kg.
-
-
-## Solution
-$$ PE = mgh = 120 MJ = 1100kg \cdot 9.8 m/sec^2 \cdot h $$
-$$ h = 120 MJ / 1100 kg / 9.8 = 11.0 km $$
-
-
-
-
-
-
-
-
-## ENSP 330, Lecture 12, Wind
-### Professor Daniel Soto, Sonoma State University
-### Thursday, 25 Sep 2014
-
-## Announcements
-
-## Lecture Learning Objectives
-- You will understand physics and environmental basics of wind
-
-<!--
-physics: mv^3
-betz limit
-land use
-wildlife impacts
-wind contribution: world, us, california
--->
-
-
-## Wind map
-- [Real time wind map](http://hint.fm/wind/)
-
-
 
 # Energy Basics
 
