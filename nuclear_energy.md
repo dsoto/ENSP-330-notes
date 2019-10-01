@@ -12,6 +12,13 @@ link to other concepts
 - capacity factor
 -->
 
+## Electricity Flow
+
+Nuclear energy is mainly used for electricity.
+
+![](./figures/electricity-flow.jpg)
+
+More data can be found at the [EIA](https://www.eia.gov/totalenergy/data/annual/)
 
 ## Fusion vs Fission
 - Fusion joins atomic nuclei
@@ -21,7 +28,7 @@ link to other concepts
 
 
 ## Fission
-![](../figures/fission.jpg)
+![](./figures/fission.jpg)
 
 ## Electronic vs Nuclear Energy Levels
 - Mass Energy Equivalence
@@ -37,25 +44,25 @@ link to other concepts
 ## Nuclear Fuel
 
 ## Uranium Metal
-![](../figures/uranium_metal.jpg)
+![](./figures/uranium_metal.jpg)
 
 ## Uranium Mine
-![](../figures/uranium_mine.jpg)
+![](./figures/uranium_mine.jpg)
 
 ## Uranium Ore
-![](../figures/uranium_ore.jpg)
+![](./figures/uranium_ore.jpg)
 
 ## Uranium Yellowcake
-![](../figures/yellowcake.jpg)
+![](./figures/yellowcake.jpg)
 
 ## Nuclear Fuel Rods
-![](../figures/nuclear_fuel_rods.jpg)
+![](./figures/nuclear_fuel_rods.jpg)
 
 ## Nuclear Reactor Core
-![](../figures/nuclear_reactor_core.jpg)
+![](./figures/nuclear_reactor_core.jpg)
 
 ## Nuclear Reactor Diagram
-![](../figures/nuclear_reactor_diagram.jpg)
+![](./figures/nuclear_reactor_diagram.jpg)
 
 ## Nuclear Waste Disposal
 
@@ -66,14 +73,14 @@ link to other concepts
 - Plutonium 239 half life of 2400 years
 
 ## Half Life
-![](../figures/halflife.jpg)
+![](./figures/halflife.jpg)
 
 
 ## Water Fuel Storage
-![](../figures/spent_fuel_storage.jpg)
+![](./figures/spent_fuel_storage.jpg)
 
 ## Above Ground Fuel Storage
-![](../figures/uranium_storage.jpg)
+![](./figures/uranium_storage.jpg)
 
 ## Electricity Death Rates
 
@@ -105,10 +112,10 @@ Source: nextbigfuture.com based on WHO data
 <!-- good stuff in wikipedia world energy consumption -->
 
 ## Nuclear Electricity Production
-![](../figures/nuclear-electricity-production.png)
+![](./figures/nuclear-electricity-production.png)
 
 ## Nuclear Installed Capacity
-![](../figures/nuclear-installed-capacity.jpg)
+![](./figures/nuclear-installed-capacity.jpg)
 
 ## Capacity vs Delivered Electricity
 - US Nuclear Capacity
@@ -131,14 +138,14 @@ Source: nextbigfuture.com based on WHO data
 - compare to coal (65.7, 4.1, 29.2, 100.1)
 - compare to natural gas (17.4, 2.0, 45.0, 67.1)
 
-## Discussion
-- Nuclear power risks and benefits
-
-## Patrick Moore Testimony
-- What is Moore arguing?
-- What parts of his argument do you find compelling?
-- What parts of his argument do you find lacking?
-- What are the reasons for his conclusion?
+<!-- ## Discussion -->
+<!-- &#45; Nuclear power risks and benefits -->
+<!--  -->
+<!-- ## Patrick Moore Testimony -->
+<!-- &#45; What is Moore arguing? -->
+<!-- &#45; What parts of his argument do you find compelling? -->
+<!-- &#45; What parts of his argument do you find lacking? -->
+<!-- &#45; What are the reasons for his conclusion? -->
 
 <!--
 evidence
@@ -148,39 +155,4 @@ value conflicts
 - what would it take to scale up?
 -->
 
-
-
-
-
-
-
-
-
-
-
-
-## ENSP 330, Lecture 11, Hydropower
-### Professor Daniel Soto, Sonoma State University
-### Tuesday, 23 Sep 2014
-
-## Announcements
-- Outlines due Thursday
-- Signup for outline feedback afterward
-- Homework 2 due Today
-- Midterm moved
-
-## Lecture Learning Objectives
-- You will understand physics and environmental basics of hydropower
-
-## Activity Objective
-- You will gain practice with energy conversions and estimations
-
-<!--
-physics: mgh
-find equations in H&K
-land use and population displacement
-china
-hydro contribution: world, US, california
-efficiency of a water wheel?  mid-80s for a good pelton?
--->
 
