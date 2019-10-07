@@ -12,6 +12,8 @@
 * [Energy Production](energy-production.md)
     * [Fossil Fuels](fossil-fuels.md)
     * [Nuclear Energy](nuclear-energy.md)
+    * [Solar Energy](solar-energy.md)
+    * [Biomass Energy](biomass-energy.md)
 * [Course Materials](course-materials.md)
     * [Physical Science Fundamentals](physical-science-fundamentals.md)
     * [Thermodynamics](thermo.md)
