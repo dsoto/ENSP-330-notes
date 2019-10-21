@@ -13,6 +13,8 @@
     * [Fossil Fuels](fossil-fuels.md)
     * [Nuclear Energy](nuclear-energy.md)
     * [Solar Energy](solar-energy.md)
+    * [Wind Energy](wind.md)
+    * [Hydropower](hydropower.md)
     * [Biomass Energy](biomass-energy.md)
 * [Course Materials](course-materials.md)
     * [Physical Science Fundamentals](physical-science-fundamentals.md)
