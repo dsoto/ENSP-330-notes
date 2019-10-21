@@ -17,7 +17,7 @@
 
 # Kinetic Energy
 
-A mass $m$ traveling at a speed $v$ has a kinetic energy
+A mass $$m$$ traveling at a speed $$v$$ has a kinetic energy
 
 $$ \frac{1}{2} m v^2 $$
 
@@ -28,9 +28,9 @@ $$ \frac {kg \cdot meter^2}{sec^2} = 1\ Joule $$
 
 $$ Power = \frac{1}{2} \rho A v^3 $$
 
-- $\rho$ density of air (kg per cubic meter)
-- $A$ swept area of wind turbine (square meters)
-- $v$ velocity of the air (meters per second)
+- $$\rho$$ density of air (kg per cubic meter)
+- $$A$$ swept area of wind turbine (square meters)
+- $$v$$ velocity of the air (meters per second)
 - Power is in watts
 
 # Air density
