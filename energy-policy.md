@@ -7,6 +7,7 @@ However, improvements in this quality of life (HDI) level off at higher levels o
 
 ![](./figures/energy-vs-HDI.gif)
 
+![](./figures/energy-vs-HDI.png)
 
 
 
