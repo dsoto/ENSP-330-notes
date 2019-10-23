@@ -1,5 +1,15 @@
 # Energy Policy
 
+# Energy and the Human Development Index
+
+Energy use is correlated with quality of life in many countries.
+However, improvements in this quality of life (HDI) level off at higher levels of energy consumption.
+
+![](./figures/energy-vs-HDI.gif)
+
+
+
+
 How do we make changes to our energy system?  Laws and institutions set
 the rules for energy usage.
 
