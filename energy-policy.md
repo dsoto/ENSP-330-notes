@@ -7,38 +7,10 @@ However, improvements in this quality of life (HDI) level off at higher levels o
 
 ![](./figures/energy-vs-HDI.gif)
 
-![](./figures/energy-vs-HDI.png)
+<!-- ![](./figures/energy&#45;vs&#45;HDI.png) -->
 
 
-
-How do we make changes to our energy system?  Laws and institutions set
-the rules for energy usage.
-
-- Cap and Trade
-- Carbon Tax
-- Mandates
-- Renewable Portfolio Standards
-- Subsidy
-- GDP
-- Emissions per Capita
-
-You will use your quantitative skills to assess the impact of these
-different policy instruments.
-
-## Questions
-
-- How can we use norms and institutions to improve our energy system?
-- How do we decide what a good outcome looks like?
-
-
-## Learning Objectives
-
-- Recognize important federal laws on energy
-- Estimate impacts of proposed policy changes on emissions or pollution
-- You will understand the links between large economies and energy use
-
-
-## Definitions
+# Definitions
 - Gross Domestic Product (GDP)
     - Monetary value of all goods and services created by an economy.
 - Per capita GDP (GDP per person)
@@ -46,21 +18,12 @@ different policy instruments.
 - Per capita energy use (Joules per person)
 - Energy intensity of GDP (Joules per GDP)
 
-## Definitions
-- Primary energy
-    - Energy as it occurs naturally
-- Secondary energy
-    - An energy source that has been converted to a more convenient form
+# Energy and GDP
 
-## Energy and GDP
+There is a correlation between energy use and the gross domestic product in countries.
+
 [Energy vs GDP by country](http://www.withouthotair.com/c30/figure242.png)
 ![](./figures/energy_gdp_hot_air.png)
-
-<!-- ## Energy Intensity -->
-<!-- ![](../figures/L2_von_meier/Slide13.jpg) -->
-
-## Energy per capita
-![](./figures/Energy-consumption-per-capita-2003.png)
 
 ## US GDP
 - 2006
@@ -69,78 +32,110 @@ different policy instruments.
 - Energy use 100 Quads
 
 
+## Energy per unit of GDP
+
+We can think of energy intensity as a form of efficiency.
+How much energy does it take a country to create economic value?
+
+![Source: The Economist](./figures/economist-energy-intensity.jpg)
+
+## Energy per capita
+![](./figures/Energy-consumption-per-capita-2003.png)
+
 ## California Electricity Consumption
 ![](./figures/california_consumption.png)
 
-<!-- what is the MPG of an economy? -->
 
-## Energy per unit of GDP
-![Source: The Economist](./figures/economist-energy-intensity.jpg)
+# Tools to affect energy use
+
+How do we make changes to our energy system?
+Laws, institutions, and markets set the rules for energy usage.
+
+- Cap and Trade
+- Carbon Tax
+- Mandates
+- Renewable Portfolio Standards
+- Subsidy
+
+You will use your quantitative skills to assess the impact of these
+different policy instruments.
+
+# The Resource Curse
+
+Experts have observed that discovering petroleum wealth in a country often doesn't lead to better economies or health for the country.
+This idea is called the resource curse.
+
+Several countries that have oil as a significant fraction of their economics have low ratings for the HDI and democracy.
+
+<!-- ## Energy Intensity -->
+<!-- ![](../figures/L2_von_meier/Slide13.jpg) -->
+
+<!-- what is the MPG of an economy? -->
 
 <!-- ![](../figures/L2_von_meier/Slide21.jpg) -->
 
 
 
-# US
-
-## US primary energy use
-![EIA](../figures/us_primary_energy_intensity.png)
-
-## Annual residential energy per capita
-![EIA](./figures/eia_us_annual_residential_per_capita.png)
-
-## US electricity consumption
-
-![](../figures/US_electricity_consumption.png)
-
-<!-- - let's do rough conversion to per capita -->
-
-## Consumption growth
-
-Overall consumption can grow even if the energy per person is shrinking.
-If the population is growing, the overall consumption of energy can increase.
-
-![](../figures/consumption_growth.png)
-
-## State energy consumption per capita
-
-![](../figures/eia_state_consumption_per_capita.png)
-
-<!-- - Why does California have high consumption but low consumption per capita? -->
-
-## US carbon emissions
-
-- ![](../figures/US_carbon_emissions.png)
-- What are possible reasons for the increase over time?
-- For the decrease recently?
-
-## US primary energy consumption
-![](../figures/us_primary_energy_consumption.png)
-
-## US oil consumption
-![](../figures/us_oil_consumption.png)
-
-<!-- ![](../figures/L2_von_meier/Slide19.jpg) -->
-
-<!-- ![](../figures/L2_von_meier/Slide20.jpg) -->
-
-
-## Solar Learning Curve
-![](../figures/solar-learning-curve.png)
-
-## Pacala and Socolow
-- Authors demonstrate solving climate problem with existing technologies
-- Hoping to settle debate on whether current technologies are sufficient
-- This is clearly stated in the introduction
-
-
-## Pacala and Socolow
-- What carbon level do the authors want us to stay under?
-- Describe a wedge in your own words
-- Which of the wedges suggested is most appealing to you and why?
-- This paper is ten years old now, are there any new wedges we could
-  add?
-
+<!-- # US -->
+<!--  -->
+<!-- ## US primary energy use -->
+<!-- ![EIA](../figures/us_primary_energy_intensity.png) -->
+<!--  -->
+<!-- ## Annual residential energy per capita -->
+<!-- ![EIA](./figures/eia_us_annual_residential_per_capita.png) -->
+<!--  -->
+<!-- ## US electricity consumption -->
+<!--  -->
+<!-- ![](../figures/US_electricity_consumption.png) -->
+<!--  -->
+<!-- <!&#45;&#45; &#45; let's do rough conversion to per capita &#45;&#45;> -->
+<!--  -->
+<!-- ## Consumption growth -->
+<!--  -->
+<!-- Overall consumption can grow even if the energy per person is shrinking. -->
+<!-- If the population is growing, the overall consumption of energy can increase. -->
+<!--  -->
+<!-- ![](../figures/consumption_growth.png) -->
+<!--  -->
+<!-- ## State energy consumption per capita -->
+<!--  -->
+<!-- ![](../figures/eia_state_consumption_per_capita.png) -->
+<!--  -->
+<!-- <!&#45;&#45; &#45; Why does California have high consumption but low consumption per capita? &#45;&#45;> -->
+<!--  -->
+<!-- ## US carbon emissions -->
+<!--  -->
+<!-- &#45; ![](../figures/US_carbon_emissions.png) -->
+<!-- &#45; What are possible reasons for the increase over time? -->
+<!-- &#45; For the decrease recently? -->
+<!--  -->
+<!-- ## US primary energy consumption -->
+<!-- ![](../figures/us_primary_energy_consumption.png) -->
+<!--  -->
+<!-- ## US oil consumption -->
+<!-- ![](../figures/us_oil_consumption.png) -->
+<!--  -->
+<!-- <!&#45;&#45; ![](../figures/L2_von_meier/Slide19.jpg) &#45;&#45;> -->
+<!--  -->
+<!-- <!&#45;&#45; ![](../figures/L2_von_meier/Slide20.jpg) &#45;&#45;> -->
+<!--  -->
+<!--  -->
+<!-- ## Solar Learning Curve -->
+<!-- ![](../figures/solar&#45;learning&#45;curve.png) -->
+<!--  -->
+<!-- ## Pacala and Socolow -->
+<!-- &#45; Authors demonstrate solving climate problem with existing technologies -->
+<!-- &#45; Hoping to settle debate on whether current technologies are sufficient -->
+<!-- &#45; This is clearly stated in the introduction -->
+<!--  -->
+<!--  -->
+<!-- ## Pacala and Socolow -->
+<!-- &#45; What carbon level do the authors want us to stay under? -->
+<!-- &#45; Describe a wedge in your own words -->
+<!-- &#45; Which of the wedges suggested is most appealing to you and why? -->
+<!-- &#45; This paper is ten years old now, are there any new wedges we could -->
+<!--   add? -->
+<!--  -->
 # California
 
 ## California
