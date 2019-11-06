@@ -20,6 +20,7 @@
     * [Energy Policy](energy-policy.md)
     * [Social Science](social-science.md)
     * [Evidence and Belief](evidence-and-belief.md)
+* [Carbon Plans](carbon-plans.md)
 * [Course Materials](course-materials.md)
     * [Physical Science Fundamentals](physical-science-fundamentals.md)
     * [Thermodynamics](thermo.md)
