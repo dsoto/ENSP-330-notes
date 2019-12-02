@@ -21,6 +21,8 @@
     * [Social Science](social-science.md)
     * [Evidence and Belief](evidence-and-belief.md)
 * [Carbon Plans](carbon-plans.md)
+    * [Transportation](transportation.md)
+    * [Food](food.md)
 * [Course Materials](course-materials.md)
     * [Physical Science Fundamentals](physical-science-fundamentals.md)
     * [Thermodynamics](thermo.md)
